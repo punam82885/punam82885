@@ -1,7 +1,7 @@
 ## 👋 Hey, I'm Punam Gavali!
 **LMS Developer | Full-Stack Technologist | CDAC Graduate | Passionate About Building**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punamgavali-1622p)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/punam-gavali-1622p)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punamgavali1622@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/punam82885)
 
@@ -107,7 +107,7 @@ Post Graduate in Advanced Computing from **CDAC Noida** with a strong foundation
 I'm always excited to collaborate on interesting projects, discuss new technologies, or explore opportunities for growth. Reach out to me:
 
 - 📧 **Email:** [punamgavali1622@gmail.com](mailto:punamgavali1622@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/punamgavali-1622p](https://www.linkedin.com/in/punamgavali-1622p)
+- 💼 **LinkedIn:** [linkedin.com/in/punam-gavali-1622p](https://linkedin.com/in/punam-gavali-1622p)
 - 🐙 **GitHub:** [@punam82885](https://github.com/punam82885)
 
 ---
